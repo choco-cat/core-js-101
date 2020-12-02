@@ -72,7 +72,9 @@ function processAllPromises(/* array */) {
  *
  */
 function getFastestPromise(/* array */) {
-  throw new Error('Not implemented');
+  /*
+   throw new Error('Not implemented');
+  */
 }
 
 /**
